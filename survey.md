@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Black
+Favorite food: Salamon
+Favorite musician/band: NF 
+Favorite movie: The Hangover
+Requested grade in the course: 100 
